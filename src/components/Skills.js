@@ -37,13 +37,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_html' className="flex flex-col">
                                 <div className=" flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={html5}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={html5} alt="HTML5"></img>
                                 </div>
                                 <p className="text-slate-400">{t("HTML5")}</p>
                             </div>
                             <div id='icon_css' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={css3}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={css3} alt="CSS3"></img>
                                 </div>
                                 <p className="text-slate-400">{t("CSS3")}</p>
                             </div>
@@ -52,13 +52,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_tailwind' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-14 md:h-10 w-14 h-10 " src={tailwind}></img>
+                                    <img className=" md:w-14 md:h-10 w-14 h-10 " src={tailwind} alt="Tailwind CSS"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Tailwind")}</p>
                             </div>
                             <div id='icon_react' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12" src={react}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12" src={react} alt="React"></img>
                                 </div>
                                 <p className="text-slate-400">{t("ReactJs")}</p>
                             </div>
@@ -67,13 +67,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_laravel' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={laravel}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={laravel} alt="Laravel"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Laravel")}</p>
                             </div>
                             <div id='icon_bootstrap' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-14 h-12 " src={bootstrap}></img>
+                                    <img className=" md:w-15 md:h-14 w-14 h-12 " src={bootstrap} alt="Bootstrap"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Bootstrap")}</p>
                             </div>
@@ -87,13 +87,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_javaScript' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-12 h-12 " src={js}></img>
+                                    <img className=" md:w-15 md:h-14 w-12 h-12 " src={js} alt="JavaScript"></img>
                                 </div>
                                 <p className="text-slate-400">{t("JavaScript")}</p>
                             </div>
                             <div id='icon_python' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={python}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={python} alt="Python"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Python")}</p>
                             </div>
@@ -102,13 +102,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_java' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-10 h-14 " src={java}></img>
+                                    <img className=" md:w-15 md:h-14 w-10 h-14 " src={java} alt="Java"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Java")}</p>
                             </div>
                             <div id='icon_php' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-16 h-10 " src={php}></img>
+                                    <img className=" md:w-15 md:h-14 w-16 h-10 " src={php} alt="PHP"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Php")}</p>
                             </div>
@@ -117,7 +117,7 @@ export default function Skills(){
 
                         <div id='icon_mysql' className="flex-col hidden md:block">
                                 <div className="flex items-center justify-center rounded-full w-40 h-20 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" w-15 h-14 " src={mysql}></img>
+                                    <img className=" w-15 h-14 " src={mysql} alt="MySQL"></img>
                                 </div>
                             <p className="text-slate-400">{t("MySQL")}</p>
                         </div>
@@ -127,13 +127,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_mysql' className="flex flex-col md:hidden">
                                 <div className="flex items-center justify-center rounded-full w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className="w-15 h-12 " src={mysql}></img>
+                                    <img className="w-15 h-12 " src={mysql} alt="MySQL"></img>
                                 </div>
                                 <p className="text-slate-400">{t("MySQL")}</p>
                             </div>
                             <div id='icon_git' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={git}></img>
+                                    <img className=" md:w-15 md:h-14 w-15 h-12 " src={git} alt="Git"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Gi")}t</p>
                             </div>
@@ -142,13 +142,13 @@ export default function Skills(){
                         <div className="flex flex-row gap-8">
                             <div id='icon_figma' className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-12 h-12 " src={figma}></img>
+                                    <img className=" md:w-15 md:h-14 w-12 h-12 " src={figma} alt="Figma"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Figma")}</p>
                             </div>
                             <div id='icon_vscode'className="flex flex-col">
                                 <div className="flex items-center justify-center rounded-full md:w-40 md:h-20 w-36 h-16 bg-white bg-opacity-5 shadow shadow-slate-900">
-                                    <img className=" md:w-15 md:h-14 w-10 h-10 " src={vscode}></img>
+                                    <img className=" md:w-15 md:h-14 w-10 h-10 " src={vscode} alt="Visual Studio Code"></img>
                                 </div>
                                 <p className="text-slate-400">{t("Vscode")}</p>
                             </div>
