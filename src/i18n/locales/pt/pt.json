@@ -1,0 +1,83 @@
+{
+
+    "Inicio": "Início",
+    "Sobre": "Sobre",
+    "Habilidades": "Habilidades",
+    "Serviços": "Serviços",
+    "Projetos": "Projetos",
+    "Contato": "Contato",
+
+
+
+    "Your browser does not support the audio element.": "Seu navegador não suporta o elemento de áudio.",
+    "EN": "EN",
+    "PT": "PT",
+    "Software Developer": "Software Developer",
+    "Oi! Eu sou a Yasmim, uma desenvolvedora de software": "Oi! Eu sou a Yasmim, desenvolvedora de software",
+    "e estudante de Sistemas de Informação.": " e estudante de Sistemas de Informação.",
+    "Welcome to my portfolio!": "Seja bem-vindo ao meu portfólio!",
+    "Load CV": "Download CV",
+
+
+
+    "About Me": "Sobre mim",
+    "About me": "Sobre mim",
+    "Personal Presentation": "Apresentação Pessoal",
+    "Hello, my name is Yasmim Barros!": "Meu nome é Yasmim Barros! ",
+    "I am 22 years old, born in Bahia, born in the city of Salvador, but residing in Feira de Santana.": "Tenho 22 anos, sou natural da Bahia, nascida na cidade de Salvador, mas residindo em Feira de Santana.",
+    "I am a Software developer and Information Systems student, enthusiastic about continuous learning and exploring new frontiers. With professional experience in technical support and contributions to academic projects, both in back-end and fullstack solutions.": "Sou desenvolvedora de Software e estudante de Sistemas de Informação, entusiasta da aprendizagem contínua e da exploração de novas fronteiras. Com experiência profissional em suporte técnico e contribuições em projetos acadêmicos, tanto em back-end quanto em soluções fullstack.",
+    "Below are some skills and projects I carried out.": "Segue abaixo algumas habilidades e projetos que realizei.",
+    "Sistemas de Informação": "Sistemas de Informação",
+    "Em andamento":"Em andamento",
+    "Téc. Desenv. de Sistemas": "Téc. Desenv. de Sistemas",
+    "Concluído": "Concluído",
+    
+
+
+
+    "Conhecimentos Técnicos": "Conhecimentos Técnicos",
+    "HTML5": "HTML5",
+    "CSS3": "CSS3",
+    "Tailwind": "Tailwind",
+    "ReactJs": "ReactJs",
+    "Laravel": "Laravel",
+    "Bootstrap": "Bootstrap",
+    "JavaScript": "JavaScript",
+    "Python": "Python",
+    "Java": "Java",
+    "Php": "Php",
+    "MySQL": "MySQL",
+    "Git": "Git",
+    "Figma": "Figma",
+    "Vscode": "Vscode",
+
+
+    "Praticas & trabalhos" : "Práticas & trabalhos",
+    "Sistema Imobiliária":"Sistema Imobiliária",
+    "O sistema tem como objetivo aprimorar a experiência de compra dos clientes e otimizar a gestão dos profissionais do setor imobiliário. Ele centraliza todas as informações necessárias para facilitar o fechamento de negócios, permitindo que os corretores cadastrem, editem e removam imóveis. Adicionalmente, o sistema oferece uma seção dedicada ao status das listagens de propriedades, proporcionando uma visão clara e atualizada do catálogo da corretora.": "O sistema tem como objetivo aprimorar a experiência de compra dos clientes e otimizar a gestão dos profissionais do setor imobiliário. Ele centraliza todas as informações necessárias para facilitar o fechamento de negócios, permitindo que os corretores cadastrem, editem e removam imóveis. Adicionalmente, o sistema oferece uma seção dedicada ao status das listagens de propriedades, proporcionando uma visão clara e atualizada do catálogo da corretora.",
+    "A Todo List é uma solução de gerenciamento de tarefas projetada para impulsionar a produtividade e a organização. Equipada com uma interface intuitiva, os usuários podem facilmente priorizar suas tarefas utilizando etiquetas inteligentes e acompanhar os prazos de conclusão de forma simplificada.": "A ToDo List é uma solução de gerenciamento de tarefas projetada para impulsionar a produtividade e a organização. Equipada com uma interface intuitiva, os usuários podem facilmente priorizar suas tarefas utilizando etiquetas inteligentes e acompanhar os prazos de conclusão de forma simplificada.",
+    "Agência de Marketing": "Agência de Marketing",
+    "Landing page de agência digital de marketing, responsivo, desenvolvido para prática e aperfeiçoamento de conhecimentos":"Landing page de agência digital de marketing, responsivo, desenvolvido para prática e aperfeiçoamento de conhecimentos",
+    "view":"Visualizar",
+
+    "Serviços Autonomos" : "Serviços Autonomos",
+    "Sites" : "Sites",
+    "Landing Page" : "Landing Page",
+    "Ofereço serviços de desenvolvimento de sites e landing pages, ideais para quem deseja fortalecer a presença online do seu negócio ou marca, agregando personalidade e resultados. Venha impulsionar o futuro do seu negócio!" : "Ofereço serviços de desenvolvimento de sites e landing pages, ideais para quem deseja fortalecer a presença online do seu negócio ou marca, agregando personalidade e resultados. Venha impulsionar o futuro do seu negócio!",
+    "Contratar" : "Contratar",
+
+
+    "E ai, ficou interessado? Entre em contato e vamos conversar!" : "E ai, ficou interessado? Entre em contato e vamos conversar!",
+    "Nome" : "Nome",
+    "Telefone" : "Telefone",
+    "Email" : "Email",
+    "Mensagem" : "Mensagem",
+    "Enviar" : "Enviar",
+    "WhatsApp" : "WhatsApp",
+    "Linkedin" : "Linkedin",
+    "GitHub" : "GitHub",
+
+    "Me acompanhe nas redes" : "Me acompanhe nas redes",
+    "2024 © Todos os direitos reservados - Yasmim Barros" : "2024 © Todos os direitos reservados - Yasmim Barros",
+    "Site carinhosamente desenvolvido por mim ♡" : "Site carinhosamente desenvolvido por mim ♡"
+}
